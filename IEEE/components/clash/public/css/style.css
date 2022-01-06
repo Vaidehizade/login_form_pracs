@@ -1,0 +1,64 @@
+.first {
+  height: 300px;
+  background-color: rgb(69, 69, 202);
+}
+.bdr {
+  height: 20px;
+  background-color: crimson;
+}
+
+.bdr1 {
+  height: 20px;
+  background-color: darkgreen;
+}
+
+.cbox {
+  border: 3px solid black;
+  height: 500px;
+}
+
+.dbox {
+  /* height:30px; */
+  color: white;
+  border: 1px solid white;
+  background-color: rgb(10, 14, 253);
+}
+
+.zbox {
+  height: 500px;
+  border: 2px solid black;
+}
+
+.arow {
+  background-color: violet;
+  border: 10px black;
+}
+
+.ibox {
+  height: 60px;
+  background-color: red;
+}
+
+.mbox {
+  height: 60px;
+  background-color: green;
+}
+.nbox {
+  height: 60px;
+  background-color: blue;
+}
+
+.pbox {
+  height: 60px;
+  background-color: yellow;
+}
+
+.kbox {
+  height: 60px;
+  background-color: slateblue;
+}
+
+.jbox {
+  height: 60px;
+  background-color: turquoise;
+}
